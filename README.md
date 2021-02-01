@@ -108,3 +108,9 @@ Tipos de linha (linestyle)
 
 
 Fonte: https://matplotlib.org/api/_as_gen/matplotlib.pyplot.plot.html
+
+
+O que é um boxplot?
+Boxplot (diagrama de caixa) é uma técnica de visualização de dados em que representa a variação de dados por meio de quartis.
+O retângulo central concentra 50% dos dados plotados. A linha ao centro indica a mediana. Os círculos representam os outlines (valores que destoam muito dos outros valores apresentados).
+![](/img/boxplot.png)
