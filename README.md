@@ -5,3 +5,6 @@ Instalar a biblioteca matplotlib, digitar no terminal
 ~~~python
 pip install matplotlib
 ~~~
+
+Documentação da biblioteca  
+https://matplotlib.org/api/pyplot_api.html  
