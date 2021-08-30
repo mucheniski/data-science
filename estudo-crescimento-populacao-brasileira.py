@@ -23,7 +23,7 @@ for i in range(len(dados)):
 # print(eixoAnos)
 # print(eixoPopulacao)
 
-plt.bar(eixoAnos, eixoPopulacao, color="#E4E4E4")
+plt.bar(eixoAnos, eixoPopulacao, color="#0000FF")
 plt.plot(eixoAnos, eixoPopulacao, color="k")
 plt.title("Crescimento da população Brasileira 1980-2016")
 plt.xlabel("Ano")
